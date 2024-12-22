@@ -1,0 +1,11 @@
+inserer dans personne les valeurs 12 'RAKOTO' 'Bema' 2004-08-12 true;
+commit
+inserer dans personne les valeurs 10 'RASOA' 'Lita' 2004-10-10 true;
+Supprimer dans personne dont idPersonne = 12;
+commit
+Supprimer dans personne dont idPersonne = 10;
+commit
+inserer dans personne les valeurs 12 'RAKOTO' 'Bema' 2004-08-12 true;
+inserer dans personne les valeurs 10 'RASOA' 'Lita' 2004-10-10 true;
+commit
+commit
